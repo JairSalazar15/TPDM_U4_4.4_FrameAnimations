@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/goku1" android:duration="500" />
+    <item android:drawable="@drawable/goku2" android:duration="500" />
+    <item android:drawable="@drawable/goku3" android:duration="500" />
+    <item android:drawable="@drawable/goku4" android:duration="500" />
+    <item android:drawable="@drawable/goku5" android:duration="500" />
+    <item android:drawable="@drawable/goku6" android:duration="500" />
+    <item android:drawable="@drawable/goku7" android:duration="500" />
+    <item android:drawable="@drawable/goku8" android:duration="550" />
+    <item android:drawable="@drawable/goku9" android:duration="550" />
+    <item android:drawable="@drawable/goku10" android:duration="350" />
+    <item android:drawable="@drawable/goku11" android:duration="550" />
+    <item android:drawable="@drawable/goku12" android:duration="550" />
+    <item android:drawable="@drawable/goku13" android:duration="550" />
+    <item android:drawable="@drawable/goku14" android:duration="550" />
+    <item android:drawable="@drawable/goku15" android:duration="550" />
+    <item android:drawable="@drawable/goku16" android:duration="550" />
+    <item android:drawable="@drawable/goku17" android:duration="550" />
+    <item android:drawable="@drawable/goku18" android:duration="550" />
+    <item android:drawable="@drawable/goku19" android:duration="550" />
+    <item android:drawable="@drawable/goku20" android:duration="550" />
+    <item android:drawable="@drawable/goku21" android:duration="550" />
+    <item android:drawable="@drawable/goku22" android:duration="550" />
+    <item android:drawable="@drawable/goku23" android:duration="550" />
+    <item android:drawable="@drawable/goku24" android:duration="550" />
+    <item android:drawable="@drawable/goku25" android:duration="550" />
+    <item android:drawable="@drawable/goku26" android:duration="550" />
+    <item android:drawable="@drawable/goku27" android:duration="550" />
+    <item android:drawable="@drawable/goku28" android:duration="550" />
+    <item android:drawable="@drawable/goku29" android:duration="550" />
+    <item android:drawable="@drawable/goku30" android:duration="550" />
+    <item android:drawable="@drawable/goku31" android:duration="550" />
+    <item android:drawable="@drawable/goku32" android:duration="550" />
+    <item android:drawable="@drawable/goku33" android:duration="1000" />
+    <item android:drawable="@drawable/goku34" android:duration="1000" />
+    <item android:drawable="@drawable/goku35" android:duration="1000" />
+    <item android:drawable="@drawable/dragon1" android:duration="1000" />
+    <item android:drawable="@drawable/dragon2" android:duration="1000" />
+    <item android:drawable="@drawable/explocin1" android:duration="1000" />
+    <item android:drawable="@drawable/fin" android:duration="1000" />
+
+
+
+
+</animation-list>
